@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DABANGG Attack</title>
-    <link>/authors/anish/</link>
-      <atom:link href="/authors/anish/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://car3s.github.io/dabangg/authors/anish/</link>
+      <atom:link href="https://car3s.github.io/dabangg/authors/anish/index.xml" rel="self" type="application/rss+xml" />
     <description>DABANGG Attack</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>DABANGG Attack</title>
-      <link>/authors/anish/</link>
+      <link>https://car3s.github.io/dabangg/authors/anish/</link>
     </image>
     
   </channel>
