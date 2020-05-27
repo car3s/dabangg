@@ -3,39 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://car3s.github.io/dabangg/authors/admin/</loc>
+    <loc>/authors/anish/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/authors/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/categories/</loc>
+    <loc>/authors/biswa/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/post/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/publication_types/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/publication/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/talk/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://car3s.github.io/dabangg/tags/</loc>
+    <loc>/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
