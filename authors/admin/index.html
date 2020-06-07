@@ -410,6 +410,35 @@
         
 
         <li class="nav-item">
+          <a class="nav-link " href="/dabangg/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
           <a class="nav-link " href="/dabangg/#faqs"><span>FAQs</span></a>
         </li>
 
@@ -535,8 +564,52 @@
     alert ("@misc{cryptoeprint:2020:637,\nauthor = {Anish Saxena and Biswabandan Panda},\ntitle = {DABANGG: Time for Fearless Flush based Cache Attacks},\nhowpublished = {Cryptology ePrint Archive, Report 2020/637},\nyear = {2020},\nnote = {\\url{https://eprint.iacr.org/2020/637}},\n}");
   }
 </script>  
-<p><button type="button"><a href="https://www.cse.iitk.ac.in/users/biswap/DABANGG.pdf">Read the Paper</a></button>
-<button type="button" style="margin:10px;" onclick="Warn();">Cite the Paper</button></p>
+<style>
+.button {
+  display: inline-block;
+  border-radius: 5px;
+  background-color: #008CBA;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 20px ;
+  padding: 20px;
+  width: 33%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+<p><a href="https://www.cse.iitk.ac.in/users/biswap/DABANGG.pdf"><button class="button" style="vertical-align:middle"><span>Read the Paper</span></button> </a>
+<button class="button" style="vertical-align:middle" onclick="Warn();"><span>Cite the Paper</span></button></p>
+<!-- 
+<button type="button"><a style="color:#3366BB;" href="https://www.cse.iitk.ac.in/users/biswap/DABANGG.pdf">Read the Paper</a></button>
+<button type="button" style="margin:10px;color:#3366BB" onclick="Warn();">Cite the Paper</button> -->
 
 
     <div class="row">
